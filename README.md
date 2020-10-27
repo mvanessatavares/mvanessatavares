@@ -1,4 +1,4 @@
-### Aluna do curso de Analise e desenvolvimento de sistema do IFPB.
+### Aluna do curso de Analise e desenvolvimento de sistema no IFPB.
 
 
 <!--
